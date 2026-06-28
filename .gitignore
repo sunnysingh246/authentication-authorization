@@ -1,0 +1,4 @@
+node_modules/
+.env
+AUTH/node_modules/
+AUTH/.env
